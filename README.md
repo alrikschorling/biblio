@@ -15,8 +15,10 @@
 
 7. Barker, R. A. et al. Designing stem-cell-based dopamine cell replacement trials for Parkinson’s disease. Nat Med 25, (2019).
 
+
 8. Arenas, E., Denham, M. & Villaescusa, J. C. How to make a midbrain dopaminergic neuron. Development (Cambridge) 142, 1918–1936 (2015).
-   
+
+
 9. Doi, D. et al. Isolation of human induced pluripotent stem cell-derived dopaminergic progenitors by cell sorting for successful transplantation. Stem Cell Reports 2, 337–350 (2014).
 
 10. Kikuchi, T. et al. Human iPS cell-derived dopaminergic neurons function in a primate Parkinson’s disease model. Nature 548, 592–596 (2017).
