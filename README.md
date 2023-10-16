@@ -51,3 +51,5 @@
 
 
 18. Yoo, J. E. et al. Trophoblast glycoprotein is a marker for efficient sorting of ventral mesencephalic dopaminergic precursors derived from human pluripotent stem cells. NPJ Parkinsons Dis 7, (2021).
+
+19. You, Z. et al. Mapping of clonal lineages across developmental stages in human neural differentiation. Cell Stem Cell (2023).
